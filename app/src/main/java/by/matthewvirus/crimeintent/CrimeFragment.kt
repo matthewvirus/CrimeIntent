@@ -78,4 +78,10 @@ class CrimeFragment: Fragment() {
 
         titleField.addTextChangedListener(titleWatcher)
     }
+
+    companion object {
+        fun newInstance(): CrimeFragment{
+            return CrimeFragment()
+        }
+    }
 }

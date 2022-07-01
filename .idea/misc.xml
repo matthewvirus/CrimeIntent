@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.287962962962963" />
         <entry key="app/src/main/res/layout/activity_crime.xml" value="0.2387171427408854" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.28072916666666664" />
         <entry key="app/src/main/res/layout/crime_fragment.xml" value="0.2947916666666667" />
         <entry key="app/src/main/res/layout/fragment_crime.xml" value="0.23883158365885418" />
+        <entry key="app/src/main/res/layout/fragment_crime_list.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/list_item_crime.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/list_serious_item_crime.xml" value="0.3098958333333333" />
       </map>
     </option>
   </component>
